@@ -1,7 +1,7 @@
 {
   "name": "Sovereign Bitcoin Node Manager",
   "content_in_root": false,
-  "domains": ["sensor"],
+  "domains": ["sovereign_bitcoin_mgmt"],
   "country": "GB",
   "homeassistant": ">=2023.0.0",
   "render_readme": true,
