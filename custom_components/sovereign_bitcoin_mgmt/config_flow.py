@@ -35,4 +35,5 @@ class SovereignBitcoinConfigFlow(config_entries.ConfigFlow, domain=DOMAIN):
                 vol.Optional(CONF_RTL_PORT, default=3000): int,
             }),
             errors=errors,
+            description_placeholders={"icon": "/local/community/sovereign_bitcoin_mgmt/brand/icon.png"},
         )

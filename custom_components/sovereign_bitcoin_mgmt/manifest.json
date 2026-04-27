@@ -6,5 +6,6 @@
   "requirements": [],
   "dependencies": [],
   "codeowners": ["@daylehouse"],
-  "config_flow": true
+  "config_flow": true,
+  "icon": "brand/icon.png"
 }
