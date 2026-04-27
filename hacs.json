@@ -1,0 +1,14 @@
+{
+  "name": "Sovereign Bitcoin Node Manager",
+  "content_in_root": false,
+  "domains": ["sensor"],
+  "country": "GB",
+  "homeassistant": ">=2023.0.0",
+  "render_readme": true,
+  "iot_class": "local_polling",
+  "filename": "manifest.json",
+  "hide_default_branch": false,
+  "persistent_directory": false,
+  "zip_release": false,
+  "icon": "brand/icon.png"
+}

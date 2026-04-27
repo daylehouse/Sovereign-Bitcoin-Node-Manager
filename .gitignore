@@ -1,0 +1,10 @@
+# See https://github.com/github/gitignore/blob/main/Python.gitignore for template
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv
+.DS_Store
+.idea/
+.vscode/
+*.log
