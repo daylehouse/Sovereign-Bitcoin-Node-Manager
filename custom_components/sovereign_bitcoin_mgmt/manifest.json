@@ -1,7 +1,7 @@
 {
   "domain": "sovereign_bitcoin_mgmt",
   "name": "Sovereign Bitcoin Node Manager",
-  "version": "0.1.0",
+  "version": "1.0.4",
   "documentation": "https://github.com/daylehouse/HA-Sovereign-Bitcoin-node-manager",
   "requirements": [],
   "dependencies": [],
